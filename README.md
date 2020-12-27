@@ -1,5 +1,6 @@
 
-##### Sentiment Analysis for Financial News using BERT
+### Sentiment Analysis for Financial News using BERT
+
 
 #### Задача
 
